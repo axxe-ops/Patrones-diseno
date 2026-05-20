@@ -2,7 +2,7 @@
 
 Este repositorio contiene las implementaciones en C# de los diferentes patrones de diseño que voy practicando para la facultad.
 
-## 🚀 Patrones Implementados
+## Patrones Implementados
 
 *   [x] **Singleton** - Garantiza una única instancia de una clase.
 *   [ ] **Factory Method** - Define una interfaz para crear un objeto, pero deja que las subclases decidan cuál clase instanciar.
