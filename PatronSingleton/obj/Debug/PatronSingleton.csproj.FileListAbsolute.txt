@@ -1,0 +1,11 @@
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\bin\Debug\PatronSingleton.exe.config
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\bin\Debug\PatronSingleton.exe
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\bin\Debug\PatronSingleton.pdb
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\obj\Debug\PatronSingleton.csproj.AssemblyReference.cache
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\obj\Debug\PatronSingleton.Form1.resources
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\obj\Debug\PatronSingleton.Properties.Resources.resources
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\obj\Debug\PatronSingleton.csproj.GenerateResource.cache
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\obj\Debug\PatronSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\obj\Debug\PatronSingleton.exe
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\obj\Debug\PatronSingleton.pdb
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\PatronSingleton\obj\Debug\PatronSingleton.exe.config
