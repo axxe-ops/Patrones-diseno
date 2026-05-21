@@ -1,0 +1,11 @@
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\obj\Debug\FactoryMethod.Form1.resources
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.cache
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\Axel\Desktop\INGENIERIA DE SOFTWARE 2026 - AXEL Y LAUTARO\Practica - Patrones\FactoryMethod\obj\Debug\FactoryMethod.exe.config
