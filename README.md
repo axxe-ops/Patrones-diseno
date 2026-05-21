@@ -7,4 +7,4 @@ Este repositorio contiene las implementaciones en C# de los diferentes patrones 
 *   [x] **Singleton** - Garantiza una única instancia de una clase.
 *   [x] **Factory Method** - Define una interfaz para crear un objeto, pero deja que las subclases decidan cuál clase instanciar.
 *   [ ] **Abstract Factory** - Fábrica de fábricas (crea familias de objetos relacionados).
-*   [ ] **Composite** - Estructuras de objetos en forma de árbol.
+*   [x] **Composite** - Estructuras de objetos en forma de árbol.
